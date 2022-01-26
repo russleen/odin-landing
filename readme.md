@@ -1,0 +1,1 @@
+## [Landing page assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page) for The Odin Project
